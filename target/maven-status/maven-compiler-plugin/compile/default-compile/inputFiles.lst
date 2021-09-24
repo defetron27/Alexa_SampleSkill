@@ -1,0 +1,7 @@
+/home/deffe/Desktop/AlexaProject/SampleSkill/src/main/java/com/def/max/handlers/SessionEndedRequestHandler.java
+/home/deffe/Desktop/AlexaProject/SampleSkill/src/main/java/com/def/max/handlers/FallbackIntentHandler.java
+/home/deffe/Desktop/AlexaProject/SampleSkill/src/main/java/com/def/max/handlers/LaunchRequestHandler.java
+/home/deffe/Desktop/AlexaProject/SampleSkill/src/main/java/com/def/max/handlers/HelloWorldIntentHandler.java
+/home/deffe/Desktop/AlexaProject/SampleSkill/src/main/java/com/def/max/handlers/CancelandStopIntentHandler.java
+/home/deffe/Desktop/AlexaProject/SampleSkill/src/main/java/com/def/max/HelloWorldStreamHandler.java
+/home/deffe/Desktop/AlexaProject/SampleSkill/src/main/java/com/def/max/handlers/HelpIntentHandler.java

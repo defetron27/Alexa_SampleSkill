@@ -1,0 +1,7 @@
+main/java/com/def/max/handlers/HelloWorldIntentHandler.class
+main/java/com/def/max/HelloWorldStreamHandler.class
+main/java/com/def/max/handlers/CancelandStopIntentHandler.class
+main/java/com/def/max/handlers/SessionEndedRequestHandler.class
+main/java/com/def/max/handlers/HelpIntentHandler.class
+main/java/com/def/max/handlers/FallbackIntentHandler.class
+main/java/com/def/max/handlers/LaunchRequestHandler.class
